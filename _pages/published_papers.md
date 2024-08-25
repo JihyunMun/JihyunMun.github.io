@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Published Papers"
+permalink: /publications/
+---
+
 # Published Papers
 
 ## Conferences
