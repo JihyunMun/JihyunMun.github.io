@@ -12,5 +12,5 @@ permalink: /publications/
 - Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). A speech corpus for chronic kidney disease. Proc. Oriental COCOSDA 2022.
 
 ## Journals
-- Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). Automatic detection and severity prediction of chronic kidney disease using machine learning classifiers. Phonetics and Speech Sciences, 14(4), 45-56.
-- Mun, J., Kim, S., & Chung, M. (2021). Acoustic analysis of Korean affricates produced by dysarthric speakers with cerebral palsy. Phonetics and Speech Sciences, 13(2), 45-55.
+- [Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). Automatic detection and severity prediction of chronic kidney disease using machine learning classifiers. Phonetics and Speech Sciences, 14(4), 45-56.](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2022.14.4.045)
+- [Mun, J., Kim, S., & Chung, M. (2021). Acoustic analysis of Korean affricates produced by dysarthric speakers with cerebral palsy. Phonetics and Speech Sciences, 13(2), 45-55.](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2021.13.2.045)
