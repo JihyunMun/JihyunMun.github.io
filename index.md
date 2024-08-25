@@ -10,8 +10,8 @@ My goal is to ensure that individuals facing communication challenges can equall
 
 
 ## Curriculum Vitae
-- [View Curriculum Vitae](/_pages/cv.md)
+- [View Curriculum Vitae](/cv/)
 
 
 ## Published Papers
-- [View Published Papers](./_pages/published_papers.md)
+- [View Published Papers](/publications/)
