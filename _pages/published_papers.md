@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Published Papers"
-permalink: /publications/
+permalink: /publications_deprecated/
 ---
 
 # Published Papers
