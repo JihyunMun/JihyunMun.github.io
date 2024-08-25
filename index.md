@@ -14,4 +14,4 @@ My goal is to ensure that individuals facing communication challenges can equall
 
 
 ## Published Papers
-- [View Published Papers](/_pages/published_papers.md)
+- [View Published Papers](https://github.com/jihyunmun/jihyunmun.github.io/blob/master/_pages/published_papers.md)
