@@ -4,6 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
+[Download my CV (PDF)](cv_240825.pdf)
 
 Here is a brief overview of my academic and professional background.
 
@@ -59,4 +60,4 @@ Here is a brief overview of my academic and professional background.
 ## Internship
 - 2019 Summer Internship in R&D Department, College of Engineering, Seoul National University & Hyundai Motors Group
 
-[Download my CV (PDF)](cv_240825.pdf)
+
