@@ -4,8 +4,6 @@ title: "Published Papers"
 permalink: /publications/
 ---
 
-# Published Papers
-
 ## Conferences
 - Mun, J., Kim, S., Chung, M. (2024). Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder. Accepted to Interspeech 2024.
 - Lee, S., Mun, J., Kim, S., Park, H., Yang, S., Kim, H., Noh, S., Kim, W., & Chung, M. (2024). Automatic Speech Recognition and Assessment Systems Incorporated into Digital Therapeutics for Children with Autism Spectrum Disorder. Accepted to ICCHP 2024.
