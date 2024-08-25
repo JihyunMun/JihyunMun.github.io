@@ -1,9 +1,17 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: default
+title: Home
 ---
+
+# Jihyun Mun
+
+I am a researcher focused on the analysis of pathological and atypical speech, and the development of automated detection and assessment tools.
+
+## About
+I am a researcher focused on the analysis of pathological and atypical speech, as well as the development of automated detection and assessment tools. My goal is to ensure that individuals facing communication challenges can equally benefit from advancements in modern technology.
+
+## Curriculum Vitae
+- [View Curriculum Vitae](/cv/)
+
+## Published Papers
+- [View Published Papers](/publications/)
