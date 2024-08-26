@@ -5,12 +5,12 @@ permalink: /publications/
 ---
 
 ## Conferences
-- Mun, J., Kim, S., Chung, M. (2024). Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder. Accepted to Interspeech 2024.
-- Lee, S., Mun, J., Kim, S., Park, H., Yang, S., Kim, H., Noh, S., Kim, W., & Chung, M. (2024). Automatic Speech Recognition and Assessment Systems Incorporated into Digital Therapeutics for Children with Autism Spectrum Disorder. Accepted to ICCHP 2024.
-- Lee, S., Mun, J., Kim, S., & Chung, M. (2024). Speech Corpus for Korean Children with Autism Spectrum Disorder: Towards Automatic Assessment Systems. Accepted to LREC-Coling 2024.
-- Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2023). An Analysis of Glottal Features of Chronic Kidney Disease Speech and Its Application to CKD Detection. Proc. Interspeech 2023.
-- Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). A speech corpus for chronic kidney disease. Proc. Oriental COCOSDA 2022.
+- Mun, J., Kim, S., Chung, M. (2024). Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder. Accepted to Interspeech 2024. [View paper](2024_interspeech.pdf)
+- Lee, S., Mun, J., Kim, S., Park, H., Yang, S., Kim, H., Noh, S., Kim, W., & Chung, M. (2024). Automatic Speech Recognition and Assessment Systems Incorporated into Digital Therapeutics for Children with Autism Spectrum Disorder. Accepted to ICCHP 2024. [View paper](2024_icchp.pdf)
+- Lee, S., Mun, J., Kim, S., & Chung, M. (2024). Speech Corpus for Korean Children with Autism Spectrum Disorder: Towards Automatic Assessment Systems. Accepted to LREC-Coling 2024. [View paper](2024_lrec.pdf)
+- Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2023). An Analysis of Glottal Features of Chronic Kidney Disease Speech and Its Application to CKD Detection. Proc. Interspeech 2023. [View paper](2023_interspeech.pdf)
+- Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). A speech corpus for chronic kidney disease. Proc. Oriental COCOSDA 2022. [View paper](2022_cocosda.pdf)
 
 ## Journals
-- [Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). Automatic detection and severity prediction of chronic kidney disease using machine learning classifiers. Phonetics and Speech Sciences, 14(4), 45-56.](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2022.14.4.045)
-- [Mun, J., Kim, S., & Chung, M. (2021). Acoustic analysis of Korean affricates produced by dysarthric speakers with cerebral palsy. Phonetics and Speech Sciences, 13(2), 45-55.](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2021.13.2.045)
+- Mun, J., Kim, S., Kim, M. J., Ryu, J., Kim, S., & Chung, M. (2022). Automatic detection and severity prediction of chronic kidney disease using machine learning classifiers. Phonetics and Speech Sciences, 14(4), 45-56. [View paper](2022_phonetics-and-sciences.pdf)
+- Mun, J., Kim, S., & Chung, M. (2021). Acoustic analysis of Korean affricates produced by dysarthric speakers with cerebral palsy. Phonetics and Speech Sciences, 13(2), 45-55. [View paper](2021_phonetics-and-sciences.pdf)
