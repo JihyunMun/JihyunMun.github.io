@@ -15,3 +15,7 @@ My goal is to ensure that individuals facing communication challenges can equall
 
 ## Published Papers
 - [View Published Papers](/publications/)
+
+
+## Research Projects
+- [View Research Projects](/projects/)
