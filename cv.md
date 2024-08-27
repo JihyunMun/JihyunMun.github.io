@@ -10,7 +10,7 @@ Here is a brief overview of my academic and professional background.
 
 ## Education
 - Integrated M.A. & Ph.D. candidate in Linguistics, Seoul National University
-- B.A. in Mechanical Engineering & Linguistics
+- B.A. in Mechanical Engineering & Linguistics, Seoul National University
 
 ## Publications
 
