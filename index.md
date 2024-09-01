@@ -19,3 +19,6 @@ My goal is to ensure that individuals facing communication challenges can equall
 
 ## Research Projects
 - [View Research Projects](/projects/)
+
+## Patents
+- [View Patents](/patents/)
